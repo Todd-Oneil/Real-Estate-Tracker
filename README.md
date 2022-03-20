@@ -1,6 +1,8 @@
 # Real-Estate-Tracker
 A desktop App that applows you to login with an account and check potential income properties for profit / loss based on input values
 
+*** This version is in developement and requires mySQL Server to be installed on your local machine***
+
 1. open the solution in visual studio.
 2. install NuGet packages where appropriate, This project uses Dapper and MySql.Data.
 3. upload the copy of the provided database using mySql Workbench.
